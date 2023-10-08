@@ -1,0 +1,26 @@
+* homebrew-harpwise
+
+  This tap helps to distribute harpwise as a homebrew package.
+
+  * [[https://github.com/marcIhm/harpwise][harpwise]] is a tool, to help you in learning and playing the harmonica.
+  * [[https://brew.sh/][homebrew]] is an alternative package manager for macOS and linux
+  * A tap is a special term of homebrew for a structure describing the
+    installation of packages; in this case mostly the file
+    Formula/homebrew.rb from this github repo
+
+  If you want to install harpwise via homebrew with this tap you first
+  need to install homebrew:
+
+  https://docs.brew.sh/Installation
+
+  then type:
+
+  brew install marcIhm/harpwise/harpwise
+
+  to install harpwise; then type:
+
+  harpwise
+
+  to read its usage-instructions.
+  
+ 
